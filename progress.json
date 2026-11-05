@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T21:28:53.625Z",
+  "generated_at": "2026-11-05T22:07:41.712Z",
   "items": {
     "math:11": {
       "kind": "math",
@@ -412,6 +412,17 @@
       "path": "math/0031-regularization-and-generalization",
       "first_solved_at": "2026-11-05T21:28:53.129Z",
       "last_pushed_at": "2026-11-05T21:28:53.129Z"
+    },
+    "math:2": {
+      "kind": "math",
+      "id": "2",
+      "title": "Multivariate Calculus",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/2",
+      "path": "math/0002-multivariate-calculus",
+      "first_solved_at": "2026-11-05T22:07:41.009Z",
+      "last_pushed_at": "2026-11-05T22:07:41.009Z"
     }
   }
 }
