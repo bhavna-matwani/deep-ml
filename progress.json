@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T19:05:06.905Z",
+  "generated_at": "2026-11-05T20:50:46.526Z",
   "items": {
     "math:11": {
       "kind": "math",
@@ -368,6 +368,17 @@
       "path": "math/0037-taylor-expansions-and-local-quadratic-models",
       "first_solved_at": "2026-11-05T19:05:06.014Z",
       "last_pushed_at": "2026-11-05T19:05:06.014Z"
+    },
+    "math:6": {
+      "kind": "math",
+      "id": "6",
+      "title": "Optimization: Convexity and Critical Points",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/6",
+      "path": "math/0006-optimization-convexity-and-critical-points",
+      "first_solved_at": "2026-11-05T20:50:45.951Z",
+      "last_pushed_at": "2026-11-05T20:50:45.951Z"
     }
   }
 }
