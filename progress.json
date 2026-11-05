@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T02:18:03.759Z",
+  "generated_at": "2026-11-05T02:24:07.294Z",
   "items": {
     "math:11": {
       "kind": "math",
@@ -272,6 +272,17 @@
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-11-05T02:18:03.026Z",
       "last_pushed_at": "2026-11-05T02:18:03.026Z"
+    },
+    "math:25": {
+      "kind": "math",
+      "id": "25",
+      "title": "KL Divergence",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/25",
+      "path": "math/0025-kl-divergence",
+      "first_solved_at": "2026-11-05T02:24:06.722Z",
+      "last_pushed_at": "2026-11-05T02:24:06.722Z"
     }
   }
 }
