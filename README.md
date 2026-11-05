@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 19 problems · 0 labs · 10 math
+**30** solved · 19 problems · 0 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-11-05 | [solution](math/0038-log-likelihood-gradients) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-10-17 | [solution](math/0014-orthogonality-and-projections) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-10-17 | [solution](math/0013-solving-linear-systems) |
+| [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-11-05 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-11-05 | [solution](math/0025-kl-divergence) |
 | [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-11-05 | [solution](math/0026-maximum-likelihood-and-map) |
 
